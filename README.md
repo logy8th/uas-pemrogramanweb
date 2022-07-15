@@ -2,7 +2,7 @@
 
 ## Link
 
-- [Dokumentasi via Youtube]()
+- [Dokumentasi via Youtube](https://www.youtube.com/watch?v=bwgwUtC0nm8)
 
 - [Demo Program](http://logy8th.42web.io/)
 
