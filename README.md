@@ -4,7 +4,7 @@
 
 - [Dokumentasi via Youtube]()
 
-- [Demo Program](http://logy8th.42.web/)
+- [Demo Program](http://logy8th.42web.io/)
 
 ## Getting Started
 
